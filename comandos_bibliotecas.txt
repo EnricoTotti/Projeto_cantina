@@ -1,0 +1,1 @@
+pip install customtkinter CTkListbox pillow CTkMessagebox mysql-connector-python
